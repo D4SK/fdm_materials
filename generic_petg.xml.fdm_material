@@ -20,7 +20,7 @@
         <temperature_advance>0.3</temperature_advance>
         <force_limit>10</force_limit>
         <force_flow_constant>0.5</force_flow_constant>
-        <force_flow_temp>0</force_flow_temp>
+        <force_flow_temp>0.1</force_flow_temp>
         <dist_force>0.5</dist_force>
     </properties>
     <settings>
