@@ -14,7 +14,7 @@
     </metadata>
     <properties>
         <density>1.10</density>
-        <heat_capacity>100</heat_capacity>
+        <heat_capacity>80</heat_capacity>
         <thermal_conductivity>0.032</thermal_conductivity>
         <diameter>1.75</diameter>
         <temperature_advance>0.3</temperature_advance>
@@ -25,7 +25,6 @@
     </properties>
     <settings>
         <setting key="print temperature">240</setting>
-        <setting key="temperature_advance">0.3</setting>
         <setting key="standby temperature">140</setting>
         <setting key="heated bed temperature">80</setting>
         <setting key="build volume temperature">37</setting>

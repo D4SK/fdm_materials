@@ -14,7 +14,7 @@
     </metadata>
     <properties>
         <density>1.24</density>
-        <heat_capacity>100</heat_capacity>
+        <heat_capacity>80</heat_capacity>
         <thermal_conductivity>0.032</thermal_conductivity>
         <diameter>1.75</diameter>
         <temperature_advance>0.3</temperature_advance>
