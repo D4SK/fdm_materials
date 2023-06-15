@@ -8,9 +8,9 @@
         </name>
         <GUID>7ff8779b-a622-44b0-b90b-4ea2663b0e56</GUID>
         <version>1</version>
-        <color_code>#0e0e10</color_code>
+        <color_code>#ffc924</color_code>
         <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
-        <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
+        <adhesion_info>Generally good adhesion</adhesion_info>
     </metadata>
     <properties>
         <density>1.24</density>
@@ -34,25 +34,7 @@
     </settings>
     <machine>
         <machine_identifier manufacturer="Ninja3D" product="Ninja330"/>
-        <machine_identifier manufacturer="Ninja3D" product="Ninja710"/>
         <cura:setting key="material_shrinkage_percentage">100.2</cura:setting>
         <cura:setting key="material_shrinkage_percentage_z">100.1</cura:setting>
-        <hotend id="AA 0.25">
-            <setting key="hardware compatible">yes</setting>
-        </hotend>
-        <hotend id="AA 0.4">
-            <setting key="hardware compatible">yes</setting>
-        </hotend>
-        <hotend id="AA 0.8">
-            <setting key="hardware compatible">yes</setting>
-        </hotend>
-        <hotend id="CC 0.4">
-            <setting key="hardware compatible">yes</setting>
-            <cura:setting key="material_crystallinity">true</cura:setting>
-        </hotend>
-        <hotend id="CC 0.6">
-            <setting key="hardware compatible">yes</setting>
-            <cura:setting key="material_crystallinity">true</cura:setting>
-        </hotend>
     </machine>
 </fdmmaterial>

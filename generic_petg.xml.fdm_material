@@ -8,9 +8,9 @@
         </name>
         <GUID>c54c9264-c3c5-4966-900f-822d23c45b3e</GUID>
         <version>1</version>
-        <color_code>#2a292a</color_code>
+        <color_code>#f3a112</color_code>
         <description>PETG is easily printable and a good all-round material. For anyone needing parts that require more chemical and heat resistance than PLA, this is an excellent material to use.</description>
-        <adhesion_info>Use glue.</adhesion_info>
+        <adhesion_info>Generally good adhesion</adhesion_info>
     </metadata>
     <properties>
         <density>1.27</density>
@@ -32,25 +32,7 @@
     </settings>
     <machine>
         <machine_identifier manufacturer="Ninja3D" product="Ninja330"/>
-        <machine_identifier manufacturer="Ninja3D" product="Ninja710"/>
         <cura:setting key="material_shrinkage_percentage">100.2</cura:setting>
         <cura:setting key="material_shrinkage_percentage_z">100.1</cura:setting>
-        <hotend id="AA 0.25">
-            <setting key="hardware compatible">yes</setting>
-        </hotend>
-        <hotend id="AA 0.4">
-            <setting key="hardware compatible">yes</setting>
-        </hotend>
-        <hotend id="AA 0.8">
-            <setting key="hardware compatible">yes</setting>
-        </hotend>
-        <hotend id="CC 0.4">
-            <setting key="hardware compatible">yes</setting>
-            <cura:setting key="material_crystallinity">true</cura:setting>
-        </hotend>
-        <hotend id="CC 0.6">
-            <setting key="hardware compatible">yes</setting>
-            <cura:setting key="material_crystallinity">true</cura:setting>
-        </hotend>
     </machine>
 </fdmmaterial>

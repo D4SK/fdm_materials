@@ -10,7 +10,7 @@
         <version>1</version>
         <color_code>#2a292a</color_code>
         <description>Tough and durable. ABS is good for mechanical parts. It is impact resistant, dimensionally stable and handles temperatures up to 85ºC.</description>
-        <adhesion_info>Use glue, to avoid chipping of the glass.</adhesion_info>
+        <adhesion_info>Generally good adhesion</adhesion_info>
     </metadata>
     <properties>
         <density>1.10</density>
@@ -32,25 +32,7 @@
     </settings>
     <machine>
         <machine_identifier manufacturer="Ninja3D" product="Ninja330"/>
-        <machine_identifier manufacturer="Ninja3D" product="Ninja710"/>
         <cura:setting key="material_shrinkage_percentage">100.2</cura:setting>
         <cura:setting key="material_shrinkage_percentage_z">100.1</cura:setting>
-        <hotend id="AA 0.25">
-            <setting key="hardware compatible">yes</setting>
-        </hotend>
-        <hotend id="AA 0.4">
-            <setting key="hardware compatible">yes</setting>
-        </hotend>
-        <hotend id="AA 0.8">
-            <setting key="hardware compatible">yes</setting>
-        </hotend>
-        <hotend id="CC 0.4">
-            <setting key="hardware compatible">yes</setting>
-            <cura:setting key="material_crystallinity">true</cura:setting>
-        </hotend>
-        <hotend id="CC 0.6">
-            <setting key="hardware compatible">yes</setting>
-            <cura:setting key="material_crystallinity">true</cura:setting>
-        </hotend>
     </machine>
 </fdmmaterial>
