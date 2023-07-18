@@ -14,14 +14,14 @@
     </metadata>
     <properties>
         <density>1.24</density>
-        <heat_capacity>80</heat_capacity>
-        <thermal_conductivity>0.032</thermal_conductivity>
+        <heat_capacity>82</heat_capacity>
+        <thermal_conductivity>0.031</thermal_conductivity>
         <diameter>1.75</diameter>
         <temperature_advance>0.3</temperature_advance>
         <force_limit>150</force_limit>
         <force_flow_constant>0.5</force_flow_constant>
-        <force_flow_temp>0</force_flow_temp>
-        <dist_force>0.5</dist_force>
+        <force_flow_temp>0.0025</force_flow_temp>
+        <dist_force>0.22</dist_force>
     </properties>
     <settings>
         <setting key="print temperature">235</setting>
