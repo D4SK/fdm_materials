@@ -19,13 +19,13 @@
         <diameter>1.75</diameter>
         <temperature_advance>0.3</temperature_advance>
         <force_limit>150</force_limit>
-        <force_flow_constant>0.5</force_flow_constant>
+        <force_flow_constant>0.4</force_flow_constant>
         <force_flow_temp>0.0025</force_flow_temp>
         <dist_force>0.22</dist_force>
     </properties>
     <settings>
         <setting key="print temperature">235</setting>
-        <setting key="standby temperature">100</setting>
+        <setting key="standby temperature">235</setting>
         <setting key="heated bed temperature">60</setting>
         <setting key="build volume temperature">28</setting>
         <setting key="print cooling">100</setting>
