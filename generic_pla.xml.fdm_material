@@ -21,7 +21,7 @@
         <force_limit>150</force_limit>
         <force_flow_constant>2.5</force_flow_constant>
         <force_flow_temp>0.00015</force_flow_temp>
-        <dist_force>0.22</dist_force>
+        <dist_force>0.14</dist_force>
     </properties>
     <settings>
         <setting key="print temperature">235</setting>

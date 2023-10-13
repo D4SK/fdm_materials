@@ -18,10 +18,10 @@
         <thermal_conductivity>0.035</thermal_conductivity>
         <diameter>1.75</diameter>
         <temperature_advance>0.3</temperature_advance>
-        <force_limit>105</force_limit>
+        <force_limit>100</force_limit>
         <force_flow_constant>2.5</force_flow_constant>
         <force_flow_temp>0.00015</force_flow_temp>
-        <dist_force>0.25</dist_force>
+        <dist_force>0.15</dist_force>
     </properties>
     <settings>
         <setting key="print temperature">245</setting>
