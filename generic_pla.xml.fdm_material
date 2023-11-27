@@ -24,8 +24,8 @@
         <dist_force>0.22</dist_force>
     </properties>
     <settings>
-        <setting key="print temperature">235</setting>
-        <setting key="standby temperature">235</setting>
+        <setting key="print temperature">220</setting>
+        <setting key="standby temperature">220</setting>
         <setting key="heated bed temperature">60</setting>
         <setting key="build volume temperature">28</setting>
         <setting key="print cooling">100</setting>
