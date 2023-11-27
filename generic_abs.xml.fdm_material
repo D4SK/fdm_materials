@@ -22,6 +22,7 @@
         <force_flow_constant>2.5</force_flow_constant>
         <force_flow_temp>0.00015</force_flow_temp>
         <dist_force>0.5</dist_force>
+        <temperature_advance>0.4</temperature_advance>
     </properties>
     <settings>
         <setting key="print temperature">240</setting>
