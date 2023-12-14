@@ -4,11 +4,11 @@
         <name>
             <brand>Generic</brand>
             <material>PLA</material>
-            <color>Generic</color>
+            <color>Green</color>
         </name>
-        <GUID>1eb5ef3a-2d72-4a19-a7dd-813387dd5479</GUID>
+        <GUID>9ce55a64-50ff-4d9f-9cbd-5c2cf425bc2b</GUID>
         <version>1</version>
-        <color_code>#666666</color_code>
+        <color_code>#61993b</color_code>
         <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
         <adhesion_info>Generally good adhesion</adhesion_info>
     </metadata>

@@ -6,9 +6,9 @@
             <material>PETG</material>
             <color>Generic</color>
         </name>
-        <GUID>c54c9264-c3c5-4966-900f-822d23c45b3e</GUID>
+        <GUID>74d0d958-d202-4774-9cf4-23adcd847189</GUID>
         <version>1</version>
-        <color_code>#f3a112</color_code>
+        <color_code>#666666</color_code>
         <description>PETG is easily printable and a good all-round material. For anyone needing parts that require more chemical and heat resistance than PLA, this is an excellent material to use.</description>
         <adhesion_info>Generally good adhesion</adhesion_info>
     </metadata>
